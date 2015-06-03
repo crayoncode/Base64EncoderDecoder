@@ -1,0 +1,6 @@
+F:\visualstudio2012\Projects\Base64EncoderDecoder\Base64EncoderDecoder\bin\Debug\Base64EncoderDecoder.exe.config
+F:\visualstudio2012\Projects\Base64EncoderDecoder\Base64EncoderDecoder\bin\Debug\Base64EncoderDecoder.exe
+F:\visualstudio2012\Projects\Base64EncoderDecoder\Base64EncoderDecoder\bin\Debug\Base64EncoderDecoder.pdb
+F:\visualstudio2012\Projects\Base64EncoderDecoder\Base64EncoderDecoder\obj\Debug\Base64EncoderDecoder.csprojResolveAssemblyReference.cache
+F:\visualstudio2012\Projects\Base64EncoderDecoder\Base64EncoderDecoder\obj\Debug\Base64EncoderDecoder.exe
+F:\visualstudio2012\Projects\Base64EncoderDecoder\Base64EncoderDecoder\obj\Debug\Base64EncoderDecoder.pdb
